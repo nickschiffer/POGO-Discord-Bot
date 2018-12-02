@@ -1,0 +1,5 @@
+requests==2.20.1
+numpy==1.15.4
+discord.py==0.16.12
+nltk==3.3
+discord==0.0.2
